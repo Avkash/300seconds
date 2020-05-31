@@ -1,2 +1,1 @@
-# 300seconds
-Learning within 300 seconds
+300 Seconds of learning
