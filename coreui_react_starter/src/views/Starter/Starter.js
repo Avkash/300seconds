@@ -9,7 +9,6 @@ import {
   Row,
 } from 'reactstrap';
 
-
 class Starter extends Component {
     constructor(props) {
       super(props);
@@ -18,7 +17,7 @@ class Starter extends Component {
       };
     }
   
-  
+
     loading = () => <div className="animated fadeIn pt-1 text-center">Loading...</div>
   
     render() {

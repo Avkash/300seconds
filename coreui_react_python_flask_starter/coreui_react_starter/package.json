@@ -38,6 +38,7 @@
   },
   "devDependencies": {
     "react-scripts": "^3.4.1",
+    "http-proxy-middleware": "0.19.1"
   },
   "scripts": {
     "start": "react-scripts start",
