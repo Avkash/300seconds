@@ -1,4 +1,4 @@
-Try any section with 300 Seconds to get full idea about it. 
+ 
 
 ## Folder: coreui_react_starter
 ### Step 1: Creating Front End using CoreUI and React
