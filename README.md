@@ -36,5 +36,7 @@ Here is the detailed step by step video to explain the above steps:
 - Adding simple API in python server
 - Connect python API from UI using GET and POST
 - Review & Understanding the code altogether
+Here is the detailed step by step video to explain above steps:
+[YouTube: Combining CoreUI, React (UI), Python and Flask (Server) as full solution](https://www.youtube.com/watch?v=EIHAuqSShjw)
 
 [Medium: Combining CoreUI + React with Python + Flask to create a simple website (Part 1)](https://medium.com/@avkashchauhan/combining-coreui-react-with-python-flask-to-create-a-simple-website-part-1-547651279dcc)
