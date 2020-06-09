@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/0/e2d769e9a19f493da41439f4c5a3765e/artifacts
+end_time: 1591685161595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: e2d769e9a19f493da41439f4c5a3765e
+run_uuid: e2d769e9a19f493da41439f4c5a3765e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1591685075978
+status: 3
+tags: []
+user_id: avkashchauhan

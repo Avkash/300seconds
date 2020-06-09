@@ -1,0 +1,6 @@
+name: movielens-recommendations-keras-tf2
+conda_env: conda.yaml
+
+entry_points:
+    main:
+        command: "python collaborative_filtering_movielens.py"  
