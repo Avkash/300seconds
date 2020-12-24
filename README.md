@@ -28,7 +28,7 @@ Here is the detailed step by step video to explain the above steps:
 - [YouTube: Python and Flask starter Code for Beginners](https://www.youtube.com/watch?v=llzJxz5oZ8c)
 
 ## Folder: coreui_react_python_flask_starter
-### Step 2: Combining CoreUI and React-based front end with Python and Flask based backend
+### Step 3: Combining CoreUI and React-based front end with Python and Flask based backend
 - Cloning CoreUI React Starter Code as base UI code
 - Create a simple python server with flask
 - Set Proxy server in UI to connect with flask server
